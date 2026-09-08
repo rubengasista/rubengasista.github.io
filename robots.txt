@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rubengasista.github.io/sitemap.xml
